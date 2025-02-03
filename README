@@ -18,3 +18,7 @@ Please visit https://gevz9w7hsz4zbkblhrkw8t.streamlit.app/ link for the refernce
 * We tried to loop accross all the target sentences and find near by BLEU score to find the nearby corpus with best alignments but that will take lots of time considering the tome we have
 
 
+| Column 1   | Column 2   | Column 3   | Column 4   | Column 5   |
+|------------|------------|------------|------------|------------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 | Row 1, Col 5 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 | Row 2, Col 5 |
