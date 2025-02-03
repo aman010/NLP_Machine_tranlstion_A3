@@ -1,0 +1,5 @@
+nltk==3.9.1
+numpy==1.24.4
+streamlit==1.40.1
+torch==2.0.1
+torch==2.4.1
