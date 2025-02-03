@@ -98,7 +98,7 @@ Simply input the text in English and click "Translate" to get the translation in
 # Example: model = YourModel.load('path_to_your_model')
 # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # model = torch.load('path_to_your_model', map_location=device)
-model_additive = torch.load('Model_corpa/umodel')
+model_additive = torch.load('Model_corpa/umodel', weights_only=False)
 model_additive.eval()
 
 
