@@ -4,4 +4,15 @@
 | Multiplicative|     0.020     | 1.20        | 5.04            | 115             |                 
 
 
+
+For the video demo please follow the link 
+
 [Demo CountPages alpha](https://github.com/aman010/NLP_Machine_tranlstion_A3/blob/main/A3.mp4)
+
+
+
+* The application is very simple once you select the target senetence from parllel translation of text and click translate it gives you the translated output in hinfi
+* Another way write the input box once you write in the input box it will take source text and generate the random text for translation
+* We tried to loop accross all the target sentences and find near by BLEU score to find the nearby corpus with best alignments but that will take lots of time considering the tome we have
+
+
