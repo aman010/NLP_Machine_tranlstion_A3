@@ -20,7 +20,13 @@ Please visit https://gevz9w7hsz4zbkblhrkw8t.streamlit.app/ link for the refernce
 
 
 
+The images below is for reference from the notebook although we are not able to find proper way to words in target langauge we add the text. There more interesting translation which happened in the notebook
+Regarding the performance the Additive model id better, we tried couple tricks like mask weight training but does not show imporvement in additive rather in Multiplicative at the marginal level.
+Although the dynamism between the attention layer and decoder layer make multiplicative model hard to deign and fit in contrast to additive.
 
 
 
 ![Image description](https://github.com/aman010/NLP_Machine_tranlstion_A3/blob/main/Screenshot%20from%202025-02-03%2009-41-11.png)
+![HeatMap][https://github.com/aman010/NLP_Machine_tranlstion_A3/blob/main/Screenshot%20from%202025-02-03%2009-40-38.png]
+
+The reference of the code was taken from the provided notebook with few ideas to fit and excute the model which took almost 2 days
