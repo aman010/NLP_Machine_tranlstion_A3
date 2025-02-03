@@ -13,7 +13,7 @@ For the video demo please follow the link
 Please visit https://gevz9w7hsz4zbkblhrkw8t.streamlit.app/ link for the refernce to the work please note that input text will only translate the word in vocab OOV is not added
 
 
-* The application is very simple once you select the target senetence from parllel translation of text and click translate it gives you the translated output in hinfi
+* The application is very simple once you select the target senetence from parllel translation of text and click translate it gives you the translated output in target langauge(hindi)
 * Another way write the input box once you write in the input box it will take source text and generate the random text for translation
 * We tried to loop accross all the target sentences and find near by BLEU score to find the nearby corpus with best alignments but that will take lots of time considering the tome we have
 * The dataset was taken from IIT bombay (https://www.cfilt.iitb.ac.in/iitb_parallel/)
